@@ -1,4 +1,0 @@
-Model/reviews.csv filter=lfs diff=lfs merge=lfs -text
-Model/recipes.csv filter=lfs diff=lfs merge=lfs -text
-Model/recipes.parquet filter=lfs diff=lfs merge=lfs -text
-Model/reviews.parquet filter=lfs diff=lfs merge=lfs -text
